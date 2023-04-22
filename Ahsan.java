@@ -34,7 +34,7 @@ import java.io.*;
 			 {
 				 gv=e;
 			 }
-			 System.out.println("Greattest="+gv);
+			 System.out.println("Greattest value="+gv);
 	  }
   }
 	 
