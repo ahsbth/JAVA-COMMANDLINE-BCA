@@ -1,0 +1,12 @@
+class Convert_without_Abs
+{
+public static void main(String args[])
+{
+int n=Integer.parse(args[0]);
+if(n==-1)
+{
+int r=-n;
+}
+System.out.println("AbsoluteValue="+r);
+}
+}
